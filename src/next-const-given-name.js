@@ -10,11 +10,11 @@
   nx.constGivenName = {
     boys: {
       single: boysSingle,
-      dobule: boysDouble
+      double: boysDouble
     },
     girls: {
       single: girlsSingle,
-      dobule: girlsDouble
+      double: girlsDouble
     },
   }
 
