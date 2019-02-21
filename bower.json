@@ -1,0 +1,28 @@
+{
+  "name": "next-const-given-name",
+  "version": "0.0.1",
+  "description": "Chinese names",
+  "main": "dist/next-const-given-name.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-const-given-name",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
