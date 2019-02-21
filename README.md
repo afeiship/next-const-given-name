@@ -8,5 +8,13 @@ npm install -S afeiship/next-const-given-name --registry=https://registry.npm.ta
 
 ## usage:
 ```js
-//DOCS here!
+import { boys, girs } from 'next-const-given-name';
+
+// boys:
+boys.single
+boys.double
+
+// girls:
+girls.single
+girls.double
 ```

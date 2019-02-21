@@ -3,13 +3,11 @@ require('../src/next-const-given-name');
 
 
 test('nx.constGivenName', function () {
-  var obj1 = {name: 'fei'};
-  var obj2 = {email: '1290657123@qq.com'};
 
-  var result = {};
+  console.log(
+    nx.constGivenName.boys.single
+  );
 
-  nx.constGivenName(result, obj1, obj2);
-
-  expect(result.name, obj1.name).toBe(null);
+  // expect(result.name, obj1.name).toBe(null);
 });
 
